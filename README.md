@@ -12,3 +12,4 @@ void loop() {
     digitalWrite(leds[i], HIGH); // تشغيل كل الليدات
   }
   delay(1000)
+}
